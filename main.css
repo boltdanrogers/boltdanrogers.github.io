@@ -8,15 +8,15 @@ li{
 }
 
 nav{
-    background-color:cornsilk;
+    background-color:mediumpurple;
 }
-#push,#footer{
-height:30px;
+footer{
+height:8vh;
 text-align:center;
+background-color:darkorchid;
 }
 
 #wrap{
-    min-height:100%;
-    height:auto;
+    min-height:92vh;
     background-color:aqua;
 }
