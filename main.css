@@ -1,0 +1,33 @@
+.row {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    height: 50vh;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#green {
+    background-color: green;
+}
+
+#yellow {
+    background-color: yellow;
+}
